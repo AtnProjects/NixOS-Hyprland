@@ -224,7 +224,7 @@
     #ags    
     btop
     brightnessctl # for brightness control
-    cava
+    
     #cliphist
     eog
     gnome-system-monitor
